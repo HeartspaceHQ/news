@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "TINA_CLIENT_ID=$TINA_CLIENT_ID TINA_TOKEN=$TINA_TOKEN tinacms build && hugo --gc --minify --baseURL $URL"
+command = "TINA_CLIENT_ID=$TINA_CLIENT_ID TINA_TOKEN=$TINA_TOKEN TINA_INDEXER_TOKEN=$TINA_INDEXER_TOKEN tinacms build && hugo --gc --minify --baseURL $URL"
 
 [context.production.environment]
 HUGO_VERSION = "0.124.1"
