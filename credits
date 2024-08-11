@@ -1,0 +1,13 @@
+# Credits
+
+This project uses the following open-source libraries and templates:
+
+- **Hugo**: A fast and flexible static site generator. [Hugo](https://gohugo.io/) is licensed under the [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE).
+
+- **Newsroom Theme**: A Hugo theme used as the basis for this site. [Newsroom Theme](https://themes.gohugo.io/themes/newsroom/) is licensed under the [MIT License](https://github.com/onweru/newsroom/blob/master/LICENSE).
+
+- **Bootstrap**: A front-end framework for developing responsive websites. [Bootstrap](https://getbootstrap.com/) is licensed under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE).
+
+- **Font Awesome**: A popular icon set and toolkit. [Font Awesome](https://fontawesome.com/) is licensed under the [SIL OFL 1.1](https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt) for icons and [MIT License](https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt) for code.
+
+- **jQuery**: A fast, small, and feature-rich JavaScript library. [jQuery](https://jquery.com/) is licensed under the [MIT License](https://github.com/jquery/jquery/blob/main/LICENSE.txt).
