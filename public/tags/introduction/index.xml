@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on Newsroom</title>
-    <link>http://localhost:1313/tags/introduction/</link>
-    <description>Recent content in Introduction on Newsroom</description>
+    <title>Introduction on Heartspace News</title>
+    <link>http://localhost:50140/tags/introduction/</link>
+    <description>Recent content in Introduction on Heartspace News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2024 18:31:48 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50140/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
+      <link>http://localhost:50140/posts/my-second-post/</link>
       <pubDate>Sun, 11 Aug 2024 18:31:48 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <guid>http://localhost:50140/posts/my-second-post/</guid>
       <description>Welcome to the first post on Heartspace News! Exploring how to use Hugo for blogging. </description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:50140/posts/my-first-post/</link>
       <pubDate>Sat, 10 Aug 2024 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:50140/posts/my-first-post/</guid>
       <description>Welcome to the first post on Heartspace News! This is where we&amp;rsquo;ll share insights, updates, and news related to our mission.</description>
     </item>
   </channel>
