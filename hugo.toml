@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://rooms.netlify.app/"
 languageCode = "en-us"
 title = "Heartspace News"
 theme = "newsroom"

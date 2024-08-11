@@ -1,20 +1,20 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/sohrab/mysite",
+	"sourceRoot": "/Users/sohrab/heartspacetest/news",
 	"sources": [
 		"/Users/sohrab/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/main.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_variables.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_fonts.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_mixins.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_animate.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_base.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_components.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_nav.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_posts.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_utils.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_syntax.sass",
-		"../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_custom.sass"
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_variables.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_fonts.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_mixins.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_animate.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_base.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_components.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_nav.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_posts.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_utils.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_syntax.sass",
+		"../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/onweru/newsroom@v0.0.0-20240414151804-1aeb1e759f75/assets/sass/_custom.sass"
 	],
 	"sourcesContent": [
 		"@import \"variables\";\n@import \"fonts\";\n@import \"mixins\";\n@import \"animate\";\n@import \"base\";\n@import \"components\";\n@import \"nav\";\n@import \"posts\";\n@import \"utils\";\n@import \"syntax\";\n@import \"custom\";\n",
