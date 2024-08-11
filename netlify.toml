@@ -1,6 +1,7 @@
 [build]
 publish = "public"
-command = "TINA_CLIENT_ID=$TINA_CLIENT_ID TINA_TOKEN=$TINA_TOKEN TINA_INDEXER_TOKEN=$TINA_INDEXER_TOKEN tinacms build && hugo --gc --minify --baseURL $URL"
+command = "hugo --gc --minify" # uncomment in production
+#command = "tinacms build && hugo --gc --minify --baseURL https://rooms.netlify.app/" # comment out in production
 
 [context.production.environment]
 HUGO_VERSION = "0.124.1"
