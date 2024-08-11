@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Newsroom</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 18:31:48 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Sun, 11 Aug 2024 18:31:48 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>Welcome to the first post on Heartspace News! Exploring how to use Hugo for blogging. </description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 10 Aug 2024 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Welcome to the first post on Heartspace News! This is where we&amp;rsquo;ll share insights, updates, and news related to our mission.</description>
+    </item>
     <item>
       <title>Emoji Support</title>
       <link>http://localhost:1313/posts/emoji-support/</link>
